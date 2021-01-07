@@ -1,0 +1,12 @@
+body{
+    font-style: italic;
+    font-style: oblique;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(20, 20, 24);
+    background: rgb(141, 158, 92);
+}
